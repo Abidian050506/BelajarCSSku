@@ -1,0 +1,50 @@
+h1{
+    color:white;
+    background-color:greenyellow;
+    text-align: center;
+
+}
+p{
+    color: blue;
+    background-color: antiquewhite;
+
+}
+.janganngikutin {
+    color: aquamarine;
+    background-color: brown;
+}
+.wsatu {
+    color:bisque;
+    background-color:blueviolet;
+}
+.wdua{
+    color: crimson;
+    background-color: darkcyan;
+}
+.wtiga{
+    color: blue;
+    background-color: red;
+}
+#kstu {
+    height: 500px;
+    width: 500px;
+    background-color:burlywood;
+    border-radius: 100pc;
+    border-top:100px;
+    margin-bottom: 10px;
+}
+#kdua {
+    height: 500px;
+    width: 500px;
+    background-color:black;
+    border-radius: 100pc;
+    border-top:100px;
+}
+#ktiga {
+    height: 500px;
+    width: 500px;
+    background-color:burlywood;
+    border-radius: 100pc;
+    border-top:100px;
+    margin-top: 10px;
+}
