@@ -48,3 +48,33 @@ p{
     border-top:100px;
     margin-top: 10px;
 }
+#Background{
+    height: 200px;
+    width: 500px;
+    background-color:greenyellow;
+    color:floralwhite;
+    background-image: url(image/burung.jpg);
+    background-size:cover;
+    background-repeat: auto;
+    border-radius: 20px;
+
+}
+#Background h2{
+    text-align: center;
+    padding-top:80px ;
+}
+#Pattern{
+    height: 200px;
+    width: 500px;
+    background-color:aqua;
+    color:black;
+    background-image: url(pattern/two100.jpg);
+    background-size:100px;
+    background-repeat: auto;
+    border-radius: 20px;
+
+}
+#Pattern h2{
+    text-align: center;
+    padding-top:80px ;
+}
